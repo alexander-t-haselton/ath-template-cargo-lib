@@ -2,3 +2,5 @@
 name = "ath_template_cargo_lib"
 version = "0.1.0"
 edition = "2021"
+authors = ["Alexander T. Haselton"]
+license = "MIT OR Apache-2.0"
