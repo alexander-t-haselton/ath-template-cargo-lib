@@ -53,9 +53,12 @@
           nativeBuildInputs = with pkgs; [
             cargo
             clippy
+            nil
+            nixfmt-rfc-style
             rust-analyzer
             rustc
             rustfmt
+            watchexec
           ];
         };
       }
