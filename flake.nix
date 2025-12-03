@@ -58,6 +58,7 @@
             rust-analyzer
             rustc
             rustfmt
+            taplo
             watchexec
           ];
         };
