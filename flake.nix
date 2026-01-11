@@ -54,7 +54,7 @@
             cargo
             clippy
             nil
-            nixfmt-rfc-style
+            nixfmt
             rust-analyzer
             rustc
             rustfmt
